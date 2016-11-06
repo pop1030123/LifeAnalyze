@@ -5,4 +5,4 @@
 3.[人生就像坐过山车](https://github.com/pop1030123/LifeAnalyze/blob/master/%E4%BA%BA%E7%94%9F%E5%B0%B1%E5%83%8F%E5%9D%90%E8%BF%87%E5%B1%B1%E8%BD%A6.md)<br>
 4.[关于阅读](https://github.com/pop1030123/LifeAnalyze/blob/master/%E5%85%B3%E4%BA%8E%E9%98%85%E8%AF%BB.md)<br>
 5.[追求卓越，你将收获成功](https://github.com/pop1030123/LifeAnalyze/blob/master/%E8%BF%BD%E6%B1%82%E5%8D%93%E8%B6%8A%E4%BD%A0%E5%B0%86%E6%94%B6%E8%8E%B7%E6%88%90%E5%8A%9F.md)<br>
-6.[财富自由之路](https://github.com/pop1030123/LifeAnalyze/blob/master/%E9%80%9A%E5%BE%80%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF.md)
+6.[财富自由之路](https://github.com/pop1030123/LifeAnalyze/blob/master/%E9%80%9A%E5%BE%80%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[评论集](http://caifu.xinshengdaxue.com/)
